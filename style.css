@@ -1,0 +1,31 @@
+.primary-color {
+    background-color: #a6c !important;    
+}
+
+.navbar {
+    -webkit-box-shadow: 0 2px 5px 0 rgba(0,0,0,.16),0 2px 10px 0 rgba(0,0,0,.12);
+
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 2px 5px 0px, rgba(0, 0, 0, 0.12) 0px 2px 10px 0px;    
+}
+
+a.navbar-brand, a.nav-link {
+    color: white !important;
+}
+
+
+.dropdown-menu {
+    padding: 10px;
+}
+
+.dropdown-item:hover {
+    background-color: #a6c !important;
+    -webkit-box-shadow: 0 5px 11px 0 rgba(0,0,0,.18),0 4px 15px 0 rgba(0,0,0,.15);
+    box-shadow: 0 5px 11px 0 rgba(0,0,0,.18),0 4px 15px 0 rgba(0,0,0,.15);
+    -webkit-border-radius: .125rem;
+    border-radius: .125rem;
+    color: white !important;
+}
+
+.active {
+    background-color:rgba(255,255,255,.1)}
+}
